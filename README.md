@@ -8,7 +8,7 @@ Diseño y construyo soluciones de IA integradas a productos reales: agentes con 
 - ☁️ Arquitecturas serverless en AWS (Lambda, SQS, EventBridge, API Gateway), sistemas event-driven, pipelines asíncronos y patrones como Factory
 - 🧱 Python para IA/backend, TypeScript · Node.js · NestJS · SQL/ORMs para llevar esas soluciones a plataformas completas
 - 🎯 Antes Product Owner — hoy uso esa visión de producto para convertir problemas complejos en soluciones de IA escalables, mantenibles y con impacto real de negocio
-- 🔭 Actualmente trabajando en Robot Made
+- 🔭 Actualmente trabajando en Habi
 
 📫 Cómo contactarme: [santi.720001@gmail.com](mailto:santi.720001@gmail.com)
 
